@@ -1,0 +1,25 @@
+{
+  "name": "cssfx",
+  "version": "1.0.0",
+  "description": "Beautifully simple click-to-copy CSS effects",
+  "author": "songdaochuanshu",
+  "license": "MIT",
+  "repository": "github:songdaochuanshu/cssfx",
+  "bugs": "https://github.com/songdaochuanshu/cssfx/issues",
+  "scripts": {
+    "dev": "nuxt",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "@nuxtjs/google-analytics": "^2.2.0",
+    "highlight.js": "^9.15.6",
+    "nuxt": "^2.6.1",
+    "v-clipboard": "^2.2.2",
+    "vue-highlightjs": "^1.3.3"
+  },
+  "devDependencies": {
+    "node-sass": "^4.11.0",
+    "raw-loader": "^2.0.0",
+    "sass-loader": "^7.1.0"
+  }
+}

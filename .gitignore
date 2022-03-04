@@ -1,0 +1,6 @@
+.DS_Store
+node_modules
+.nuxt
+.netlify
+yarn.lock
+.DS_Store
