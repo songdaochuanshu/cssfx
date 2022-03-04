@@ -4,10 +4,6 @@ First of all, thank you for taking the time to contribute! 🎉
 
 Any form of contribution is welcome! This includes new effects, site improvements, and reporting issues. This guide will help you get started. Feel free to propose changes to this document if you think something is missing or needs to be clarified.
 
-## Code of Conduct
-
-By contributing to this project, you are expected to uphold the [Code of Conduct](CODE_OF_CONDUCT.md). Please report any unacceptable behavior to Jonathan Olaleye at j.olaleye.o@gmail.com.
-
 ## How Can I Contribute?
 
 ### New Effects
