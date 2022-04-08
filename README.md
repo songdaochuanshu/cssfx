@@ -16,4 +16,4 @@ Always be sure to follow the [Code of Conduct](CODE_OF_CONDUCT.md).
 
 ## License
 
-The CSSFX site and effects are [MIT licensed](LICENSE.md).
+The CSSFX site and effects are [MIT licensed](LICENSE).
